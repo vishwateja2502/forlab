@@ -1,0 +1,39 @@
+#head{
+    position: relative;
+    left: 44%;
+    top:30%;
+    color: white;
+}
+body{
+    background-color: gray;
+}
+#name1{
+    position: relative;
+    left: 44.7%;
+    top:35%;
+    color: black;
+    background-color: white;
+    height: 4vh;
+    width: 20vh;
+
+}
+#name2{
+    position: relative;
+    left: 33%;
+    top:40%;
+    color: black;
+    background-color: white;
+    height: 4vh;
+    width: 20vh;
+
+}
+
+#submit{
+    position: relative;
+    left: 24.5%;
+    top:50%;
+    color: black;
+    background-color: white;
+    height: 4vh;
+    width: 10vh;
+}
